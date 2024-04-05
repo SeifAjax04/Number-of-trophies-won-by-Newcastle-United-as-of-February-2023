@@ -9,7 +9,7 @@ To run this project, you'll need to have Python 3 and the following libraries in
     
 You can install these libraries using pip:
 
-pip install matplotlib numpy
+    pip install matplotlib numpy
 
 # Contributing 📤
 
